@@ -1,0 +1,1 @@
+java 8 설치 후 WebsocketApplication 실행
